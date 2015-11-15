@@ -1,2 +1,3 @@
 = personal-wiki
-My own personal wiki
+
+This repo contains my own personal wiki, in which I store all the tips, guides, and information that I find useful.
