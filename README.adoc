@@ -1,2 +1,2 @@
-# personal-wiki
+= personal-wiki
 My own personal wiki
